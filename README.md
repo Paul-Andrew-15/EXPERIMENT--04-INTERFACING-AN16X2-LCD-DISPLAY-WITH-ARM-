@@ -208,40 +208,7 @@ int main(void)
 
 
 ## Output screen shots of proteus  :
- ![exp4out](./opa1)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ ![exp4out](./opa1.jpeg)
 
 
  
